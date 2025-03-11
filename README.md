@@ -8,7 +8,7 @@
 #### I was previously a:
 - Software Engineer Intern @ Powin
 - IT Intern @ NetScout
-- Frontend Developer @ Northrop Grumman Collaboration Project
+- Frontend Developer @ [Northrop Grumman Collaboration Project](https://github.com/ngcp-project)
 ##
 👨‍💻 **I’m currently working on**:
 - Mobility Scooter Project: Research project under Dr. Chen | Refactoring research group's mobile app
