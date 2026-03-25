@@ -2,17 +2,15 @@
 
 ### **My name is Justin Nguyen**
 #### I am currently:
-- A 4th Year Computer Science Major @ Cal Poly Pomona
-- President of Computer Science Society
-- Co-Organizer for Cal Poly Pomona's BroncoHacks
+- A software developer at Trusted American Insurance Agency
 #### I was previously a:
 - Software Engineer Intern @ Powin
 - IT Intern @ NetScout
 - Frontend Developer @ [Northrop Grumman Collaboration Project](https://github.com/ngcp-project)
+- President of Computer Science Society @ Cal Poly Pomona
+- Co-Organizer for Cal Poly Pomona's BroncoHacks
 ##
 👨‍💻 **I’m currently working on**:
-- Mobility Scooter Project: Research project under Dr. Chen | Refactoring research group's mobile app
-- Korah Research Group: Comparative machine learning and deep learning model study for drought forecasting in California
 - OtakuTrials: Anime trivia website with multiple daily minigames
   
 📫 **How to Reach Me**:
