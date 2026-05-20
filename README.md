@@ -2,7 +2,7 @@
 
 ### **My name is Justin Nguyen**
 #### I am currently:
-- A software developer at Trusted American Insurance Agency
+- A junior software engineer at Trusted American Insurance Agency
 #### I was previously a:
 - Software Engineer Intern @ Powin
 - IT Intern @ NetScout
